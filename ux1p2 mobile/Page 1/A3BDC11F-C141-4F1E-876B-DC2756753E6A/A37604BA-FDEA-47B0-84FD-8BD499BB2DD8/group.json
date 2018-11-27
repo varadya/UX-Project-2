@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A37604BA-FDEA-47B0-84FD-8BD499BB2DD8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3F1243E-D2B7-4B4E-8A6F-8EC6CE281075",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A19AAFE2-6A7B-4E16-BCBD-2BEACCA00177",
+    "height": 1076,
+    "width": 320,
+    "x": 0,
+    "y": 1582
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "14581E62-FEAF-4CE7-AF44-A42F7391A48E"
+    },
+    {
+      "class": "group",
+      "id": "F2DAE551-CD2E-4517-9607-C58F512BA09C"
+    }
+  ],
+  "name": "Promo section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D610D7CE-6E2B-45A1-AACF-235F69A1997E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

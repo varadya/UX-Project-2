@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E16AA6BF-0A44-4ADF-8982-E7900E2981D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F9CBFC2-0E99-4CFA-9ABF-B7BA635C6585",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E7D4D39-A1C6-4715-A58D-6DEF2B913677",
+    "height": 115,
+    "width": 113,
+    "x": 355,
+    "y": 6
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "polygon",
+      "id": "FC76912E-7057-4F30-AB92-0CA0ED7DA626"
+    }
+  ],
+  "name": "logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BBF24D61-2F87-4BAC-999F-7ECA3FD28BFC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

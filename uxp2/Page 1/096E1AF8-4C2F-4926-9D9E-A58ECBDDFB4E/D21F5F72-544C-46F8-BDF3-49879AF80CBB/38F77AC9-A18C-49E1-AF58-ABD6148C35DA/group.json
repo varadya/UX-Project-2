@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "38F77AC9-A18C-49E1-AF58-ABD6148C35DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A12B9B3C-E174-44EC-A8BB-C1794B7E4B1F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98B003B1-67AC-4F4E-9903-4ABE66C5E73A",
+    "height": 42,
+    "width": 42,
+    "x": 1448,
+    "y": 45
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "C42F839B-03D3-41F1-9148-340EE26A67F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F411A8C-6224-4A4A-A183-2AA08AD6C3C5"
+    }
+  ],
+  "name": "shopping bag",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B934375-422E-4467-96CE-96C2626426EF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

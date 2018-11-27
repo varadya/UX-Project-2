@@ -1,0 +1,157 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "229F2BEC-BCBC-4B29-9216-52D39A92EA2F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "096E1AF8-4C2F-4926-9D9E-A58ECBDDFB4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D654D1D-3FC4-48F4-B435-13D4010E1380",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "do_objectID": "8F3911E9-D9D5-4407-A1EC-CDC951C1FD6C",
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C2393DF-F480-45AB-BB4B-6C6842DBBE43",
+    "height": 2196.195296598737,
+    "width": 1920,
+    "x": 402,
+    "y": -786
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "1EFA05D8-C36F-4153-A872-B0E82D9D339E",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 1,
+    "do_objectID": "1017F06F-FDA0-4B75-A7B6-D931ED5570C5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "17842000-1647-40E6-AEC7-FA4EC5AC7498"
+    },
+    {
+      "class": "group",
+      "id": "7C17E443-3748-4880-930A-AB4DEDE17C34"
+    },
+    {
+      "class": "group",
+      "id": "D21F5F72-544C-46F8-BDF3-49879AF80CBB"
+    },
+    {
+      "class": "group",
+      "id": "D0E2F962-AD83-45B9-8A6B-A9991CF63143"
+    },
+    {
+      "class": "group",
+      "id": "97674B29-2AE9-4211-87CE-B7B940F29963"
+    },
+    {
+      "class": "bitmap",
+      "id": "3FB83003-E056-4219-A682-76D8EDCD7758"
+    },
+    {
+      "class": "group",
+      "id": "F5E10F42-37CA-4C06-9F9B-A77EA297DD4F"
+    },
+    {
+      "class": "group",
+      "id": "9E8B5305-0FAA-4061-9EF1-C070FB29738A"
+    },
+    {
+      "class": "bitmap",
+      "id": "13B32E2E-EE5A-4A04-A660-5A753B0B0C37"
+    },
+    {
+      "class": "group",
+      "id": "D6CCED0D-3D1A-46A5-A077-86631C984482"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "F77E2069-96C0-4D96-AB47-D85EC1986E24",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": false,
+    "horizontalOffset": 375,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1170
+  },
+  "name": "Gallery desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9300B268-894F-4948-B449-A6885174A8CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Technology",
+        "mode": "unsplash"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -1,
+    "do_objectID": "84E08D95-D634-4965-96F5-538A9A6E038A",
+    "guides": [
+    ]
+  }
+}

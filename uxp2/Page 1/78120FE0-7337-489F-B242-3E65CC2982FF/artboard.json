@@ -1,0 +1,145 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "898E2D5F-16B3-4D5C-9134-C9DCD26E7E05",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "78120FE0-7337-489F-B242-3E65CC2982FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5E58C85-4158-47FB-A557-9A3211151B2F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "do_objectID": "BAD8134C-ACF0-4EC0-A970-8704A94D2A93",
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6870BBBA-F906-4D85-BFDE-63D477502610",
+    "height": 4686.145994636582,
+    "width": 1920,
+    "x": 2842,
+    "y": -786
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "F3945883-0933-4C7A-9C32-715E9FB8A610",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "354766D2-10A4-454E-9D59-D0B8DB7E9AEF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6C726436-35BA-44BE-ABFC-5C215C6D3C14"
+    },
+    {
+      "class": "group",
+      "id": "B9A16925-C0B4-4909-873D-52A67AD06C6F"
+    },
+    {
+      "class": "group",
+      "id": "8A66551F-7A44-4165-B766-9576D6072F3A"
+    },
+    {
+      "class": "group",
+      "id": "B594B8C5-48AC-4D8C-9ED0-95A1E4D5E541"
+    },
+    {
+      "class": "group",
+      "id": "B408D780-C2E0-42D2-B4B3-DD34D5960A69"
+    },
+    {
+      "class": "bitmap",
+      "id": "7D3C548A-154A-49F5-9982-7654FECB5A21"
+    },
+    {
+      "class": "group",
+      "id": "E6EC27E5-0051-47F0-ADBD-C628970E1448"
+    },
+    {
+      "class": "text",
+      "id": "F3CD27AF-DFE5-4688-8DB9-8B1AA0864E53"
+    },
+    {
+      "class": "group",
+      "id": "034E4342-6A0B-4375-B3A8-2B111707D494"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "AF546DA4-36B7-46D6-A3E5-6089297185DD",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": false,
+    "horizontalOffset": 375,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1170
+  },
+  "name": "Curriculum desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1399D556-DD40-4946-92A6-0EA669F155A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "323BDE66-BA4A-49D3-BF6A-AD97D06FF446",
+    "guides": [
+    ]
+  }
+}

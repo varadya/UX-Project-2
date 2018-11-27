@@ -1,0 +1,85 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "40DE4FC4-07E2-4CB5-B8E4-CD390290048D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2B39788-F058-494C-A12B-44C5FD7AA98B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B7C7935-7A12-4CF1-B2D9-EA87EA8A3684",
+    "height": 16,
+    "width": 16.04371584699454,
+    "x": 36,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A9E7FB1E-9DBF-4F4E-A6E4-6B6AF81331E1"
+    },
+    {
+      "class": "shapePath",
+      "id": "849DD085-2C23-484F-BA7E-1214A30AC39D"
+    },
+    {
+      "class": "shapePath",
+      "id": "E0069206-6FB4-44AA-995F-8E1FF58AA3C8"
+    },
+    {
+      "class": "shapePath",
+      "id": "C560436B-4985-447F-B965-2F7049C5B8BE"
+    }
+  ],
+  "name": "Instagram_4_",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "91977511-22EF-4E4A-AD77-394A5BFAF409",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6078431372549019,
+          "green": 0.6078431372549019,
+          "red": 0.6078431372549019
+        },
+        "do_objectID": "AC98179E-920C-4D98-A2DD-36707CCA1D45",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

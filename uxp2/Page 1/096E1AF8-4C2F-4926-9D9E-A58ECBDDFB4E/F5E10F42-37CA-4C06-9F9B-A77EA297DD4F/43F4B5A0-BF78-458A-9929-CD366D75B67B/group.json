@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "43F4B5A0-BF78-458A-9929-CD366D75B67B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "880CCB19-8A9E-48C8-A3FB-1091388FA0BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "826A743D-BC6F-4864-BF93-D0D78177E0AC",
+    "height": 16,
+    "width": 90,
+    "x": 1455,
+    "y": 24
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A8E81964-EA8E-4EDB-A7DD-247CF6BA3039"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62C8CF6D-B9BA-4541-9CE0-DD342D980F82"
+    },
+    {
+      "class": "shapePath",
+      "id": "24CB4334-8903-4061-91F8-306C9282F1AB"
+    }
+  ],
+  "name": "social icons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "117C949C-908B-4EFF-833A-7EB55FD4674D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
